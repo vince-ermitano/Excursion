@@ -19,3 +19,22 @@ header {
     color: aquamarine;
 }
 
+.mid-section {
+    color: white;
+}
+
+.mid-section .subheader{
+    font-size: 2.625rem;
+    font-weight: 300;
+}
+
+.mid-section .gray-text {
+    font-size: 1.3125;
+    color: gray;
+}
+
+.lower .coming-soon {
+    font-size: 2.625rem;
+    font-weight: 300;
+    color: white;
+}
