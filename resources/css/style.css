@@ -38,3 +38,9 @@ header {
     font-weight: 300;
     color: white;
 }
+
+.copyright {
+    color: gray;
+    text-align: right;
+    padding-right: 10px;
+}
